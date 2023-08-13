@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2023-08-13T02:17:01.538Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0" version="21.6.8" etag="n4dXRXS7wPP4fkldTVXE" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-13T02:20:29.613Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="QVcEsgiPkozsSUi3THw7" version="21.6.8" type="github">
   <diagram name="第 1 页" id="MkYkKVoI01z4D53WzlGc">
-    <mxGraphModel>
+    <mxGraphModel dx="1367" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1a6Mnk_K03xN9Baxw_4N-1" value="&lt;div&gt;Scene&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="220" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6Mnk_K03xN9Baxw_4N-2" value="Meshs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="270" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6Mnk_K03xN9Baxw_4N-3" value="Materials" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="189" y="270" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6Mnk_K03xN9Baxw_4N-4" value="Textures" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="270" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6Mnk_K03xN9Baxw_4N-5" value="Cameras" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="270" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6Mnk_K03xN9Baxw_4N-6" value="Lights" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="270" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6Mnk_K03xN9Baxw_4N-7" value="Animations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="270" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6Mnk_K03xN9Baxw_4N-8" value="Skeletons" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="270" width="70" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
